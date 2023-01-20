@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(241, 193, 161);
+}
+
+li {
+    color:rgb(39, 82, 58);
+}
+
+.inizio {
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sfondo {
+    background-color: white ;
+    width: fit-content;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    border-radius: 10px;
+}
+
+.centralo {
+    display: flex;
+    justify-content: center;
+}
