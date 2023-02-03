@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(241, 193, 161);
+    background-color: #F4F4F9;
 }
 
 li {
@@ -7,23 +7,29 @@ li {
 }
 
 .inizio {
-    color: green;
+    color: #1B9AAA;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
 }
 
-.sfondo {
-    background-color: white ;
-    width: fit-content;
-    
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-
-    border-radius: 10px;
-}
 
 .centralo {
+    display: flex;
+    justify-content: center;
+}
+
+.proseguimento {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.proseguimento2 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.proseguimento3 {
+    font-size: 30px;
     display: flex;
     justify-content: center;
 }
